@@ -1,6 +1,6 @@
 //Example of Node.js code to run Snyk runtime agent
 require("@snyk/nodejs-runtime-agent")({
-  projectId: "0362609f-1db6-4213-8c8f-de7f2667f4d5"
+  projectId: "f7ffc60a-0d57-4296-83a5-9261caecac08"
 });
 const axios = require("axios");
 const moment = require("moment");
